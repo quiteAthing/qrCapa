@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 @WebServlet(
-        name = "MyServlet2",
+        name = "MyServlet",
         urlPatterns = {"/binaryCounter"}
     )
 public class BinaryCounter extends HttpServlet {

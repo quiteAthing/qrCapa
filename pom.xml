@@ -3,7 +3,7 @@
   <groupId>qrCapcity</groupId>
   <artifactId>qrCapcity</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <properties>
     <tomcat.version>8.0.28</tomcat.version>
   </properties>

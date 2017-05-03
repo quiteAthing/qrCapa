@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
         name = "MyServlet2",
         urlPatterns = {"/binaryCounter"}
     )
-public class HelloServlet extends HttpServlet {
+public class BinaryCounter extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp)

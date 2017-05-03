@@ -1,1 +1,1 @@
-﻿web: java
+web: sh qrCapacity/bin/webapp

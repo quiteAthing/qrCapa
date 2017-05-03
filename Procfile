@@ -1,1 +1,1 @@
-web: sh qrCapacity/bin/webapp
+web: sh target/bin/webapp
